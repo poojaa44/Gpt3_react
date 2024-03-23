@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gpt3_react/static/css/main.362ad087.css",
+    "main.js": "/Gpt3_react/static/js/main.570549c5.js",
+    "static/media/ai.png": "/Gpt3_react/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/Gpt3_react/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/Gpt3_react/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/Gpt3_react/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/Gpt3_react/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/Gpt3_react/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/Gpt3_react/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/Gpt3_react/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/Gpt3_react/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/Gpt3_react/index.html",
+    "main.362ad087.css.map": "/Gpt3_react/static/css/main.362ad087.css.map",
+    "main.570549c5.js.map": "/Gpt3_react/static/js/main.570549c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362ad087.css",
+    "static/js/main.570549c5.js"
+  ]
+}
